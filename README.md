@@ -189,8 +189,8 @@ Data can then be used for:
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flight-data-pipeline.git
-cd flight-data-pipeline
+git clone https://github.com/KaustavModak/Flight-Data-Pipeline.git
+cd Flight-Data-Pipeline
 ```
 
 ---
